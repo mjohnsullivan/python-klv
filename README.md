@@ -13,7 +13,7 @@ Unit Tests
 Install nose:
 
 ```bash
-python install nose
+pip install nose
 ```
 
 Run the command ```nosetests``` in the root directory.
@@ -39,4 +39,4 @@ import klv
 key, value = klv.decode(klv_msg, 16)
 ```
 
-Decode takes the form ```decode(<klv>,<key length>)``` to accomodate messages with different length keys. The ```key``` and ```value``` results are bytearrays.
+Decode takes the form ```decode(<klv>, <key length>)``` to accomodate messages with different length keys. The ```key``` and ```value``` results are bytearrays.
