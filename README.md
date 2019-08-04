@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/artsalliancemedia/python-klv.png)](http://travis-ci.org/artsalliancemedia/python-klv)
+[![Build Status](https://travis-ci.org/mjohnsullivan/python-klv.png)](http://travis-ci.org/mjohnsullivan/python-klv)
 
 KLV in Python
 =============
